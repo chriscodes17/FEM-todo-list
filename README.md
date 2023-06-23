@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Link](https://www.frontendmentor.io/solutions/advice-generator-built-with-react-and-vite-js-YwZxkfI-8z)
-- Live Site URL: [Link](https://github.com/chriscodes17/FEM-todo-list)
+- Live Site URL: [Link](https://fem-todo-list-7g9m4vjve-chriscodes17.vercel.app/)
 
 ## My process
 
