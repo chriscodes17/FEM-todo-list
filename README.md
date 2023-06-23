@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Link](https://www.frontendmentor.io/solutions/advice-generator-built-with-react-and-vite-js-YwZxkfI-8z)
+- Live Site URL: [Link](https://github.com/chriscodes17/FEM-todo-list)
 
 ## My process
 
